@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NPush</string>
+    <string name="msg_token_fmt">FCM Token: %1$s</string>
+    <string-array name="grupo_list">
+        <item>Grupo</item>
+    </string-array>
+</resources>
